@@ -13,7 +13,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px;
   }
   
   .container {
@@ -63,3 +62,11 @@
     text-shadow: 0 0 12px #0ff;
   }
   
+
+  .scoreboard {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    font-size: 1.8rem;
+    text-shadow: 0 0 8px;
+  }
